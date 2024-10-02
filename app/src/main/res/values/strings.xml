@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Almacenamiento</string>
+    <string name="btnShared">Shared Preference</string>
+    <string name="btnAgenda">Agenda</string>
+    <string name="btnBlock">Block</string>
+    <string name="btnIngresar">Ingresar Nombres</string>
+
+    <string name="txtCorreo">Ingrese su Correo</string>
+    <string name="btnGuardar">Guardar</string>
+
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellido">Apellido</string>
+    <string name="etNombre">Ingrese su Nombre</string>
+    <string name="etApellido">Ingrese su Apellido</string>
+    <string name="btnGuardarAgenda">Guardar</string>
+    <string name="btnBuscar">Buscar</string>
+
+    <string name="etMultiline">Ingrese Texto</string>
+    <string name="btnGuardarBlock">Guardar</string>
+</resources>
