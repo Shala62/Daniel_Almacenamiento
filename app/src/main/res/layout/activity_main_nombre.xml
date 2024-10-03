@@ -27,6 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="77dp"
+        android:onClick="Siguiente"
         android:text="@string/btnSiguiente"
         app:layout_constraintBottom_toTopOf="@+id/imgCasita"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,9 +36,10 @@
 
     <ImageView
         android:id="@+id/imgCasita"
-        android:layout_width="171dp"
-        android:layout_height="0dp"
+        android:layout_width="144dp"
+        android:layout_height="139dp"
         android:layout_marginBottom="185dp"
+        android:onClick="Home"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

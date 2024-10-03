@@ -33,9 +33,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(block);
     }
 
-    /*
+
     public void Nombres(View view) {
-        Intent nombres = new Intent(MainActivity.this, MainNombres.class);
+        Intent nombres = new Intent(MainActivity.this, MainNombre.class);
         startActivity(nombres);
-    } */
+    }
 }
