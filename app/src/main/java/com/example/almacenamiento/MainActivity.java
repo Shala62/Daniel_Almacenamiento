@@ -27,12 +27,13 @@ public class MainActivity extends AppCompatActivity {
         Intent agenda = new Intent(MainActivity.this, MainAgenda.class);
         startActivity(agenda);
     }
-/*
+
     public void Block(View view) {
         Intent block = new Intent(MainActivity.this, MainBlock.class);
         startActivity(block);
     }
 
+    /*
     public void Nombres(View view) {
         Intent nombres = new Intent(MainActivity.this, MainNombres.class);
         startActivity(nombres);

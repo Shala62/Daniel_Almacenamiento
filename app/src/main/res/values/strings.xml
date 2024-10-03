@@ -17,4 +17,10 @@
 
     <string name="etMultiline">Ingrese Texto</string>
     <string name="btnGuardarBlock">Guardar</string>
+
+    <string name="txtHintNombre">Ingrese su Nombre</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="txtBienvenido">Bienvenido</string>
+    <string name="btnCalificar">Calificar</string>
 </resources>
